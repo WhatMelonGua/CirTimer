@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<g stroke="#7A7A7A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<circle cx="50" cy="14" r="6.0" fill="none"/><polyline points="50,21 50,27 50,54"/><polyline points="50,27 42,40 40,52"/><polyline points="50,27 58,40 60,52"/><polyline points="50,54 46,72 44,90"/><polyline points="50,54 54,72 56,90"/><path d="M 31.1 26.2 A 9 9 0 1 1 42.5 39.8" fill="none"/><path d="M 57.5 39.8 A 9 9 0 1 0 63.6 23.1" fill="none"/>
+</g>
+</svg>

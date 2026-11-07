@@ -1,0 +1,30 @@
+{
+  "id": "paper",
+  "name": "纸质极简",
+  "base": "light",
+  "palette": {
+    "bg": "#FAF8F3",
+    "surface": "#FFFFFF",
+    "surface_alt": "#F5F2EA",
+    "sidebar": "#FFFFFF",
+    "border": "#E6E1D8",
+    "border_strong": "#D6D0C4",
+    "text": "#1C1B19",
+    "text_sub": "#6E6759",
+    "text_faint": "#948C7C",
+    "accent": "#B5651D",
+    "accent_text": "#FFFFFF",
+    "success": "#6E8B6B",
+    "warning": "#B5651D",
+    "danger": "#A33A2A",
+    "ring_track": "#EDE8DE"
+  },
+  "radius": { "card": 10, "pill": 18, "small": 6 },
+  "font": {
+    "ui": "Microsoft YaHei UI",
+    "num": "Noto Serif SC",
+    "num_size": 52,
+    "ui_size": 12
+  },
+  "effects": { "ring_glow": false }
+}

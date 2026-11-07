@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<g stroke="#7A7A7A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<rect x="30" y="78" width="44" height="5" rx="1" fill="none"/><circle cx="54" cy="20" r="6.0" fill="none"/><polyline points="54,27 54,33 54,54"/><polyline points="54,33 48,42 46,52"/><polyline points="54,33 60,42 64,52"/><polyline points="54,54 50,66 48,78"/><polyline points="54,54 60,66 66,86"/><line x1="8" y1="92" x2="92" y2="92" opacity="0.35"/>
+</g>
+</svg>

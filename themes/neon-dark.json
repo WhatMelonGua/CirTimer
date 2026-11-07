@@ -1,0 +1,30 @@
+{
+  "id": "neon-dark",
+  "name": "深空霓虹",
+  "base": "dark",
+  "palette": {
+    "bg": "#0A0E13",
+    "surface": "#121820",
+    "surface_alt": "#0E141B",
+    "sidebar": "#0D1218",
+    "border": "#1E2A36",
+    "border_strong": "#2A3A4A",
+    "text": "#E6EDF3",
+    "text_sub": "#8B98A5",
+    "text_faint": "#6B7785",
+    "accent": "#35D0A5",
+    "accent_text": "#04120E",
+    "success": "#35D0A5",
+    "warning": "#F0B429",
+    "danger": "#FF6B6B",
+    "ring_track": "#1B2530"
+  },
+  "radius": { "card": 14, "pill": 18, "small": 8 },
+  "font": {
+    "ui": "Microsoft YaHei UI",
+    "num": "Segoe UI Variable Display",
+    "num_size": 58,
+    "ui_size": 12
+  },
+  "effects": { "ring_glow": true }
+}

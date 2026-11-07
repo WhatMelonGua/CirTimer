@@ -1,0 +1,30 @@
+{
+  "id": "fluent-dark",
+  "name": "Fluent 深色",
+  "base": "dark",
+  "palette": {
+    "bg": "#202020",
+    "surface": "#2B2B2B",
+    "surface_alt": "#262626",
+    "sidebar": "#272727",
+    "border": "#3A3A3A",
+    "border_strong": "#4A4A4A",
+    "text": "#F2F2F2",
+    "text_sub": "#B4B4B4",
+    "text_faint": "#8A8A8A",
+    "accent": "#4FA3E3",
+    "accent_text": "#0B1A26",
+    "success": "#57B85A",
+    "warning": "#E0A23C",
+    "danger": "#E5655A",
+    "ring_track": "#3A3A3A"
+  },
+  "radius": { "card": 8, "pill": 18, "small": 6 },
+  "font": {
+    "ui": "Microsoft YaHei UI",
+    "num": "Segoe UI Variable Display",
+    "num_size": 54,
+    "ui_size": 12
+  },
+  "effects": { "ring_glow": false }
+}
